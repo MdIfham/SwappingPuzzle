@@ -34,7 +34,7 @@ npm run dev
 Username: admin@gmail.com 
 Password: 123456789
 
-Soft Skills to be tested:-
+## Soft Skills to be tested:-
 1) The skill pertaining to fine motor and hand-eye coordination are tested as the player manipulate puzzle pieces to put the puzzle together.
 2) Player learns to work through a problem and reach a solution as they fit the pieces together. This tests the ability of problem solving of the player.
 3) The process of putting together a puzzle has a finite end when the puzzle is solved. Player encounters frustration when they cannot easily solve a puzzle, and when they work through these emotions, they enjoy the success of task completion. Working through these feelings helps a player develop persistence, or the ability to keep going in the face of difficulty.

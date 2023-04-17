@@ -11,10 +11,10 @@ const Navbar = () => {
             style={{
               fontFamily: "monospace"
             }}
-            className="col s5 brand-logo center black-text"
+            className="col s5 brand-logo center red-text"
           >
-            <i className="material-icons">code</i>
-            <span>PuZzLe <span style={{color:"#0099ff"}}>Game</span></span>
+            <i className="material-icons">apps</i>
+            <span>Swapping <span style={{color:"#0099ff"}}>Puzzle</span></span>
           </Link>
         </div>
       </nav>

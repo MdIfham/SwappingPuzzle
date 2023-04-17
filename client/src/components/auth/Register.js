@@ -62,7 +62,7 @@ class Register extends Component {
             </Link>
             <div className="col s12" style={{ paddingLeft: "11.250px" }}>
               <h4>
-                <b>Register</b> below
+                <b>Register</b>
               </h4>
               <p className="grey-text text-darken-1">
                 Already have an account? <Link to="/login">Log in</Link>
@@ -130,7 +130,7 @@ class Register extends Component {
                 <button
                   style={{
                     width: "150px",
-                    borderRadius: "3px",
+                    borderRadius: "30px",
                     letterSpacing: "1.5px",
                     marginTop: "1rem"
                   }}

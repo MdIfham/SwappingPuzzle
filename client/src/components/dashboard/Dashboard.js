@@ -69,10 +69,9 @@ class Dashboard extends Component {
           <div className="row">
             <div className="landing-copy col s12 center-align">
               <h4>
-                <b>Hey there,</b> {user.name.split(" ")[0]}
+                <b>Hello,</b> {user.name.split(" ")[0]}
                 <p className="flow-text grey-text text-darken-1">
-                  You are logged into the-tricky{" "}
-                  <span style={{ fontFamily: "monospace" }}>PuZzLe</span> app 👏
+                  Welcome to the Swapping Puzzle Game 💙
                   <br />
                   {/* <span>Total Level Cleared: {this.state.level}  </span>{"    "}
                   <span>Total Time Taken: {this.state.time}</span> */}
@@ -83,20 +82,20 @@ class Dashboard extends Component {
                 <button
                   style={{
                     width: "150px",
-                    borderRadius: "3px",
+                    borderRadius: "30px",
                     letterSpacing: "1.5px",
                     marginTop: "1rem"
                   }}
                   onClick={user.name.split(" ")[0]==='admin'?this.onAdminClick:this.onStartClick}
-                  className="btn btn-large waves-effect waves-light hoverable red accent-3"
+                  className="btn btn-large waves-effect waves-light hoverable blue accent-3"
                 >
-                  {user.name.split(" ")[0]==='admin'?"Lets_Start":"Start_Game"}
+                  {user.name.split(" ")[0]==='admin'?"Analytics":"Start_Game"}
                 </button>
 
                 <button
                   style={{
                     width: "150px",
-                    borderRadius: "3px",
+                    borderRadius: "30px",
                     letterSpacing: "1.5px",
                     marginTop: "1rem"
                   }}
